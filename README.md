@@ -11,17 +11,17 @@
 
 <div class="container">  
 <a href="https://github.com/Levkol">  
-<img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript" alt="JavaScript">  </a>  
+<img src="https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript" alt="JavaScript">  </a>  
 </div>
 
 ### Technologies & Frameworks
 
 
-<div class="container">  <a href="https://github.com/Levkol">  <img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react" alt="React">  </a>  <a href="https://github.com/Levkol">  <img src="https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js" alt="Node.JS">  </a>  
-<a href="https://github.com/Levkol">  <img src="https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript" alt="Typescript">  </a>  
-<a href="https://github.com/Levkol">  <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb" alt="MongoDB">  </a>  
+<div class="container">  <a href="https://github.com/Levkol">  <img src="https://img.shields.io/badge/react-white?style=for-the-badge&logo=react" alt="React">  </a>  <a href="https://github.com/Levkol">  <img src="https://img.shields.io/badge/Node.JS-white?style=for-the-badge&logo=node.js" alt="Node.JS">  </a>  
+<a href="https://github.com/Levkol">  <img src="https://img.shields.io/badge/typescript-white?style=for-the-badge&logo=typescript" alt="Typescript">  </a>  
+<a href="https://github.com/Levkol">  <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb" alt="MongoDB">  </a>  
 
-<a href="https://hub.docker.com/u/Levkol">  <img src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5" alt="HTML5">  </a>  <a href="https://hub.docker.com/u/Levkol">  <img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3" alt="CSS3">  </a>  <a href="https://github.com/Levkol">  <img src="https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass" alt="sass">  </a> </div>
+<a href="https://hub.docker.com/u/Levkol">  <img src="https://img.shields.io/badge/html5-white?style=for-the-badge&logo=html5" alt="HTML5">  </a>  <a href="https://hub.docker.com/u/Levkol">  <img src="https://img.shields.io/badge/css3-white?style=for-the-badge&logo=css3" alt="CSS3">  </a>  <a href="https://github.com/Levkol">  <img src="https://img.shields.io/badge/sass-white?style=for-the-badge&logo=sass" alt="sass">  </a> </div>
 
 <br>
 
@@ -30,15 +30,15 @@
 
 
 <a href="https://github.com/Levkol">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Levkol&theme=darcula" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Levkol&theme=default" />
 </a>
 
 <div class="flex-container">
   <a href="https://github.com/Levkol" style="flex: 1;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Levkol&hide_border=true&card_width=338&theme=darcula" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Levkol&hide_border=true&card_width=338&theme=default" />
   </a>
   <a href="https://github.com/Levkol" style="flex: 1;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Levkol&theme=darcula" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Levkol&theme=default" />
   </a>
 </div>
 
